@@ -91,17 +91,24 @@ window_72AD4918_67DA_71FE_41D7_40AB00C79059.title = ART SHED
 ## Skin
 
 ### Button
+Button_72A343CC_67B7_B056_41BC_F12BE04DA8F8_mobile.label = Blind  Roll Down
 Button_72A343CC_67B7_B056_41BC_F12BE04DA8F8.label = Blind  Roll Down
 Button_742FDA38_67BE_B03E_41D4_94D5958F1223.label = Blind  Roll Up
+Button_742FDA38_67BE_B03E_41D4_94D5958F1223_mobile.label = Blind  Roll Up
 
 ### Image
 Image_66C19177_682B_44F8_41B6_BD939A2E945B.url = skin/Image_66C19177_682B_44F8_41B6_BD939A2E945B_en.jpg
+Image_66C19177_682B_44F8_41B6_BD939A2E945B_mobile.url = skin/Image_66C19177_682B_44F8_41B6_BD939A2E945B_mobile_en.jpg
 Image_78F597A0_67D6_50CE_41D7_ACC7EAF82F77.url = skin/Image_78F597A0_67D6_50CE_41D7_ACC7EAF82F77_en.png
+Image_78F597A0_67D6_50CE_41D7_ACC7EAF82F77_mobile.url = skin/Image_78F597A0_67D6_50CE_41D7_ACC7EAF82F77_mobile_en.png
 Image_7C16314E_6827_C429_41D3_80F1C08FD389.url = skin/Image_7C16314E_6827_C429_41D3_80F1C08FD389_en.png
+Image_7C16314E_6827_C429_41D3_80F1C08FD389_mobile.url = skin/Image_7C16314E_6827_C429_41D3_80F1C08FD389_mobile_en.png
 
 ### Multiline Text
 HTMLText_79C4C065_6839_4418_4198_8A7D01FCCF36.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:67px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:67px;font-family:'Poppins SemiBold';"><B>VIRTUAL TOUR</B></SPAN></SPAN></DIV></div>
 HTMLText_67AB62B3_6829_447F_41C8_2B5506CE0C1B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#777777;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:14px;font-family:'Poppins Medium';">Tip: Click on any </SPAN><SPAN STYLE="color:#e42d2f;font-size:14px;font-family:'Poppins Medium';">object</SPAN><SPAN STYLE="color:#333333;font-size:14px;font-family:'Poppins Medium';"> you find interesting.</SPAN></SPAN></DIV></div>
+HTMLText_79C4C065_6839_4418_4198_8A7D01FCCF36_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:33.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:33.5px;font-family:'Poppins SemiBold';"><B>VIRTUAL TOUR</B></SPAN></SPAN></DIV></div>
+HTMLText_67AB62B3_6829_447F_41C8_2B5506CE0C1B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#777777;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:7px;font-family:'Poppins Medium';">Tip: Click on any </SPAN><SPAN STYLE="color:#e42d2f;font-size:7px;font-family:'Poppins Medium';">object</SPAN><SPAN STYLE="color:#333333;font-size:7px;font-family:'Poppins Medium';"> you find interesting.</SPAN></SPAN></DIV></div>
 
 ## Tour
 
